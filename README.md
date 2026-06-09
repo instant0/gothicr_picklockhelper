@@ -1,6 +1,8 @@
 # gothicr_picklockhelper
 Picklock helper for Gothic Remake
 
+Requires: Gothic, Python 3 (v3.11+ tested)
+
 # HoWto
 
 ```
